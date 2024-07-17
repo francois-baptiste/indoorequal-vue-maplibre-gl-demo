@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "version": "2.5.0",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build"
+  },
+  "dependencies": {
+    "maplibre-gl": "^4.5.0",
+    "mitt": "^3.0.1",
+    "nuxt": "^3.12.3",
+    "vue": "^3.4.32",
+    "@indoorequal/vue-maplibre-gl": "^7.4.0"
+  }
+}
